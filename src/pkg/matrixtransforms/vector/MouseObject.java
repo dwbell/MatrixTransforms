@@ -11,7 +11,7 @@ public class MouseObject extends VectorObject {
 
     public MouseObject(Dimension dim, MouseInput mouse, KeyboardInput keyboard) {
         super(dim, mouse, keyboard);
-        //LOL Test
+        
         initialize();
 
     }
